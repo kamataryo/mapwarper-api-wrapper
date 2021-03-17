@@ -1,0 +1,10 @@
+{
+  "name": "mapwarper-api-wrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kamataryo <kamataryo@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
